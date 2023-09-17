@@ -1,4 +1,4 @@
-Question 1
-ans:
-Question 2
-ans:
+Question 1: 2+3
+ans:5
+Question 2: 2-2
+ans:0
